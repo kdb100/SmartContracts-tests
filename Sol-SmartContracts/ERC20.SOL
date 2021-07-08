@@ -19,7 +19,7 @@ event Transfer(address indexed from, address indexed to, uint tokens);
 
 contract Aftareum is ERC20Interface{
     
-    string public name = "Aftareum";
+    string public name = "Aftachain";
     string  public symbol = "AFTA";
     uint public decimal = 0; //18 is upper limit
     uint public override totalSupply;
