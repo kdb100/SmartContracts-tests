@@ -14,6 +14,6 @@ Some smart contracts with different use cases.
 
     Events, Contract Inheritance, Abstract Contracts & Interfaces
 
-    Real-World examples on Smart Contracts security implementations for a decentralized unstoppable Lottery, Auction or CrowdFunding Platform, ERC20 Token, and ICO
+    Real-World examples on Smart Contracts security implementations for a decentralized Lottery, Auction or CrowdFunding Platform, ERC20 Token with ICO
 
   **This is only for referencing & educational purposes - Not financial advice**
