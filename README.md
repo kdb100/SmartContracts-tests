@@ -17,3 +17,4 @@ Some smart contracts with different use cases.
     Real-World examples on Smart Contracts security implementations for a decentralized Lottery, Auction or CrowdFunding Platform, ERC20 Token with ICO
 
   **This is only for referencing & educational purposes - Not financial advice**
+<img width="1072" alt="Screen Shot 2021-07-08 at 5 41 01 PM" src="https://user-images.githubusercontent.com/78291849/124994443-de174700-e013-11eb-920f-ac9dd9fd9f66.png">
